@@ -7,3 +7,4 @@ Example of JavaScript object properties.
 + `node configurable`
 + `node enumerable`
 + `node writable`
++ `node get`
