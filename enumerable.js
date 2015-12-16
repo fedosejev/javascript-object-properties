@@ -2,7 +2,7 @@
 
 var modelX = {
   make: 'Tesla',
-  model: 'ModelX',
+  model: 'Model X',
   released: '2016'
 };
 
