@@ -12,5 +12,5 @@ Example of JavaScript object properties.
 + `node prototype`
 + `node prototype-object`
 + `node prototype-chain`
-+ `node prototype-chain-es6` // or run it in Safari's console.
++ `node prototype-chain-es6` or run it in Safari's console.
 
