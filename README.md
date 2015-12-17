@@ -9,3 +9,5 @@ Example of JavaScript object properties.
 + `node writable`
 + `node get`
 + `node set`
++ `node prototype`
++ `node prototype-object`
