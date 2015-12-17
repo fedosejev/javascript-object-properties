@@ -11,3 +11,4 @@ Example of JavaScript object properties.
 + `node set`
 + `node prototype`
 + `node prototype-object`
++ `node prototype-chain`
