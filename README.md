@@ -8,3 +8,4 @@ Example of JavaScript object properties.
 + `node enumerable`
 + `node writable`
 + `node get`
++ `node set`
