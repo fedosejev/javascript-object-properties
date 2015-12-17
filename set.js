@@ -2,8 +2,6 @@
 
 var car = {};
 
-var property;
-
 Object.defineProperty(car, 'name', {
   set: function (value) {
     var nameParts = value.split(' ');
