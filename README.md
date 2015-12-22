@@ -4,6 +4,7 @@ Example of JavaScript object properties.
 
 ## How to use?
 
++ `node property`
 + `node configurable`
 + `node enumerable`
 + `node writable`

@@ -1,15 +1,15 @@
 'use strict';
 
-var modelX = {
+var car = {
   make: 'Tesla',
   model: 'Model X',
   released: 2016
 };
 
-Object.defineProperty(modelX, 'info', {
+Object.defineProperty(car, 'info', {
   get: function () {
     return this.make + ' ' + this.model;
   }
 });
 
-console.log(modelX.info);
+console.log(car.info);
