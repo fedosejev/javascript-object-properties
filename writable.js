@@ -6,8 +6,6 @@ var car = {
   released: 2016
 };
 
-var property;
-
 Object.defineProperty(car, 'released', { writable: false });
 
 car.released = 2017; // TypeError: Cannot assign to read only property 'released' of #<Object>

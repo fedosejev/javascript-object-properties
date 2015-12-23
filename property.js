@@ -4,8 +4,6 @@ var car = {
   model: 'Model X'
 };
 
-var property;
-
 Object.defineProperty(car, 'make', {
   value: 'Tesla'
 });
